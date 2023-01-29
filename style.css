@@ -1,0 +1,13 @@
+.styleCard {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 1px solid #ffffff;
+}
+
+.form-square {
+    border: 1px solid darkgrey;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 20px 20px 20px 20px;
+}
